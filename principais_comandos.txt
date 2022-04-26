@@ -1,0 +1,28 @@
+git init = inicia um projeto
+
+git add <arquivo> = adciona um projeto ao stage do git
+
+git commit -m(faz com que vc possa comentar o commit) 'mensagem [...]' <arquivo>
+
+git log = mostras os logs do projeto, podemos ter uma melhr visualização com:  git log --pretty=oneline | Isso mostrará tudo em linha
+
+git log status = mostará o status do log
+
+git diff (e se quiser o nome específico de um arquivo) = mostrá as diferenças entre o arquivo no head e o arquivo no workspace
+
+git diff --name-only = mostrará apenas o nome do arquivo
+
+git commit --amend = fará vc voltar o ultimo commit alterar sua mensagem e os arquivos que estiverem add vão ser comitados juntos, se quiser editar apenas a mensagem
+não pode ter nenhum arquivo no stage(add)
+
+git reset HEAD = volta tudo a como era no ultimo commit
+
+git checkout --<arquivo> = fará o arquivo específico voltar a ser como era no commit
+
+git branch = mostras a sbranchs que tem e qual vc está
+
+git branch <name> = adciona uma branch com o name adcionado
+
+git checkout <branch name> = vai mudar para a branch que escolhermos
+
+git merge < nome da branch> = irá masclar a branch que vc botou o nome com a branch alvo(a que vc estiver)

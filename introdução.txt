@@ -1,0 +1,21 @@
+*GIT*
+Sistema de controle de versão de arquivos:
+
+com ele podemos desenvolver projetos colaborativos, e acessar versões anteriores.
+
+CONTROLE DE VERSÕES: 
+
+registra diferentes modificações de um arquivo
+
+permite recuperar uma versão específica. Acabando com a perda de arquivos importantes e resgates de versões anteriores
+
+SISTEMA DE FLUXO 
+
+workdir: Diretório  de arquivos do proj no comp (a pasta de arquivo)
+
+Index: área temporária de arquivos, ela é uma arvore de arquivos q vão ser salvos(esperam o commit)
+
+Head: quando vc da o comando de commit nos arquivos do index, vc joga eles para a head, aponta o ultimo commit(versão salva) do projeto
+
+*GITHUB*
+serviço de hospedagem de projetos git. Com projetos privados ou OpenSource. Ajuda a desenvolver o networking entre programadores. Serve como um portfólio

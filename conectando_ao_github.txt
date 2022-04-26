@@ -1,0 +1,3 @@
+git remote add origin <origem> = para conectar o repositório com uma origem(github)
+
+git push origin master = para mandar o commit que realizamos no nosso computador para o git hub

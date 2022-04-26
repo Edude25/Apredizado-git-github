@@ -1,0 +1,16 @@
+Oque são branchs:
+**ramos**
+
+Serve para desenvolvermos feactures isoladas
+
+a branch master é a principal
+
+Nós misturamos as branch com o comando merge
+
+Master
+
+a branch chamada master é a principal do nosso projeto. É o projeto principal, da onde se ramifica as feactures, que geralmente são pedaços do projeto
+
+Merge
+
+nós utilizamos esse comando para poder unificar as ramificações
